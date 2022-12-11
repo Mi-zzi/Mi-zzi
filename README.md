@@ -2,7 +2,7 @@
 
 
 ## 안녕하세요 👋 
-### 저는 안드로이드 개발자를 꿈꾸며 공부하고 있는 학부생입니다.
+### 
 
 <!--
 **Kminzzi/KMinzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
