@@ -4,7 +4,8 @@
 ## 안녕하세요 👋 
 ### 
 
-https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white
+<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+
   
 <!--
 **Kminzzi/KMinzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
