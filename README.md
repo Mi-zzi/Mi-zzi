@@ -3,9 +3,10 @@
 
 ## 안녕하세요 👋 
 ### 
-
-<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/>
+<img src="https://img.shields.io/badge/java-red?style=flat&logo=java&logoColor="white"/>
+<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
 	
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alswlrkswl)](https://solved.ac/alswlrkswl)
