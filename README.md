@@ -8,8 +8,6 @@
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
 	
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alswlrkswl)](https://solved.ac/alswlrkswl)
 <!--
 **Kminzzi/KMinzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
