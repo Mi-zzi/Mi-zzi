@@ -1,12 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Minzzi&fontSize=90)
 
 
-## 안녕하세요 👋 
-### 
-### :tools: skill stacks
-<img src="https://img.shields.io/badge/java-red?style=flat&logo=java&logoColor="white"/>
-<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
+## Hi there 👋 
+#### 안드로이드를 공부하고 있으며 현재 웹에도 관심이 생겨 리액트를 공부중입니다. :)
+#### 1일 1커밋 운동을 통해 멈추기보단 꾸준히 한발자국씩 나아가고 있습니다 !
+</br>
+
+### 📝:Skills & Learning
+
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=Javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 	
 <!--
 **Kminzzi/KMinzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
