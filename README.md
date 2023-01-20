@@ -6,6 +6,8 @@
 #### 1일 1커밋 운동을 통해 꾸준히 한발자국씩 나아가고 있습니다 !
 </br>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKminzzi&count_bg=%23697DB6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ### 📝Skills & Learning
 
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white)
@@ -19,10 +21,11 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alswlrkswl)](https://solved.ac/alswlrkswl/)  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Kminzzi&layout=compact)](https://github.com/KMinzzi/github-readme-stats)
-	
+
+
+
 <!--
 **Kminzzi/KMinzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 
 Here are some ideas to get you started:
