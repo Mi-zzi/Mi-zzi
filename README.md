@@ -1,3 +1,5 @@
+
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Minzzi&fontSize=90)
 
 
@@ -22,8 +24,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alswlrkswl)](https://solved.ac/alswlrkswl/)
 
-[![KMinzzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kminzzi&theme=Gradient)](https://github.com/KMinzzi/github-readme-stats)|[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Kminzzi&layout=compact)](https://github.com/KMinzzi/github-readme-stats)
-:-:|:-:
+[![KMinzzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kminzzi&show_icons=true&bg_color=e9d8d4&title_color=8d192b&text_bold=bold&text_color=a2685d&icon_color=862931)](https://github.com/KMinzzi/github-readme-stats)|[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Kminzzi&layout=compact&show_icons=true&bg_color=e9d8d4&title_color=8d192b&text_bold=bold&text_color=a2685d&icon_color=862931)](https://github.com/KMinzzi/github-readme-stats)
+:-:|:-:|
 
 
 
