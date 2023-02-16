@@ -4,19 +4,22 @@
 
 
 ## Hi there 👋 
-#### 앱 런칭을 목표로 플러터를 공부중입니다. :)
-#### 1일 1커밋 운동을 통해 꾸준히 한발자국씩 나아가고 있습니다 !
+#### I am Meezzi, an Android app developer.
+#### I am developing Android applications using both Java and Kotlin programming languages.
+#### Currently, I am also studying Flutter in order to launch an app.
+
 </br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMeezzi&count_bg=%23697DB6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 📝Skills & Learning
 
-![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=Javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+
 
 </br>
 
