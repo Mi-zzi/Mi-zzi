@@ -3,10 +3,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Meezzi&fontSize=90)
 
 
-## Hi there 👋 
+## Hi there 👋
 #### I am Meezzi, an Android app developer.
 #### I am developing Android applications using both Java and Kotlin programming languages.
 #### Currently, I am also studying Flutter in order to launch an app.
+
 
 </br>
 
