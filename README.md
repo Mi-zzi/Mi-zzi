@@ -7,7 +7,7 @@
 #### I am Meezzi, an Android app developer.
 #### I am developing Android applications using both Java and Kotlin programming languages.
 #### Currently, I am also studying Flutter in order to launch an app.
-
+🌱 **Blog : https://sfida.tistory.com/**
 
 
 </br>
@@ -36,7 +36,7 @@
 
 <br><br>
 
-🌱 **Blog : https://sfida.tistory.com/**
+
 
 
 <!--
