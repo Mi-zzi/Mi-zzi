@@ -16,18 +16,6 @@
 ![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 
-
-
-</br>
-
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alswlrkswl)](https://solved.ac/alswlrkswl/)
-
-
-[![Meezzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meezzi&theme=rose&show_icons=true)](https://github.com/Meezzi/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meezzi&theme=rose&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-:-:|:-:|
-
 <br><br>
 
 
